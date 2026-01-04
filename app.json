@@ -1,10 +1,10 @@
 {
-  "name": "RAVEN-BOT",
+  "name": "Takeoff-BOT",
   "description": "A simple yet complicated WhatsApp bot, ♤Enjoy♡",
   "keywords": [
     "bot",
     "whatsapp",
-    "raven",
+    "Takeofff",
     "whatsapp-stickers",
     "anime",
     "whatsapp-bot",
@@ -20,7 +20,7 @@
   "success_url": "/",
   "env": {
     "DEV": {
-      "description": "Enter the Bot number here without + or spaces \",\" Ex: 254114660061,254780147229",
+      "description": "Enter the Bot number here without + or spaces \",\" Ex: 254114660061,23278295269",
       "required": true
     },
     "HEROKU_API": {
